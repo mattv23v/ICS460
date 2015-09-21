@@ -6,6 +6,7 @@
 ## Project 1
 - simple protocol to add strings after each function
 - the string has to pass through 7 methods adding a new header before the current string
+
 ## Project 2
 
 ## Project 3
