@@ -1,13 +1,17 @@
 package com.abc.project1;
 
+import java.util.Scanner;
+
 /**
  * Created by mroien on 9/20/15.
  */
 
 public class encapsulation {
     public static void main(String arg[]) {
-        String packet = "data";
-        protocol1(packet);
+        System.out.println("Please enter your data: ");
+        Scanner scan = new Scanner(System.in);
+        String data = scan.nextLine();
+        protocol1(data);
     }
 
     public static void protocol1(String data) {
