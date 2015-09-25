@@ -3,7 +3,7 @@ package com.abc.project1;
 import java.util.Scanner;
 
 /**
- * Created by mroien on 9/20/15.
+ * Created by Tim Oien & Matt Van Gundy on 9/20/15.
  */
 
 public class encapsulation {
